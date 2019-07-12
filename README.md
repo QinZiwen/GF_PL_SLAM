@@ -15,7 +15,7 @@ When tested on multiple challenging scenarios that point feature may fail, GF-PL
 
 To build GF-PL-SLAM, first clone the repo to your ros workspace
 
-	git clone git@github.com:YipuZhao/GF_PL_SLAM.git
+	git clone git@github.com:ivalab/GF_PL_SLAM.git
 
 Build dependencies for GF-PL-SLAM with
 
